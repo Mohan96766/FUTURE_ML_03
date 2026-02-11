@@ -41,17 +41,19 @@ Recruiters spend hours manually reading resumes. This project solves that by:
 ## 🖼 Screenshots / Demo
 
 ### Top 10 Candidates Table
-![Top Candidates Table](demo_screenshots/top_candidates_table.png)
+![Top Candidates Table](Demo_Screenshots/top_candidates_table.png)
 
 ### Top Candidate Match Scores
-![Top Candidates Bar Chart](demo_screenshots/top_candidates_bar_chart.png)
+![Top Candidates Bar Chart](Demo_Screenshots/top_candidates_bar_chart.png)
 
 ### Skills Matched vs Missing per Candidate
-![Skills Matched vs Missing](demo_screenshots/skills_matched_vs_missing.png)
+![Skills Matched vs Missing](Demo_Screenshots/skills_matched_vs_missing.png)
 
 ### Skill Coverage Heatmap
-![Skill Coverage Heatmap](demo_screenshots/top_candidates_skill_heatmap.png)
+![Skill Coverage Heatmap](Demo_Screenshots/top_candidates_skill_heatmap.png)
 
 ### Skill Gap Heatmap (Red = Missing, Green = Present)
-![Skill Gap Heatmap](demo_screenshots/skill_gap_heatmap.png)
+![Skill Gap Heatmap](Demo_Screenshots/skill_gap_heatmap.png)
 
+### Word Cloud of Top Skills
+![Word Cloud](Demo_Screenshots/wordcloud_skills.png)
