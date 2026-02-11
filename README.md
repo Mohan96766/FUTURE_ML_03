@@ -41,7 +41,7 @@ Recruiters spend hours manually reading resumes. This project solves that by:
 ## 🖼 Screenshots / Demo
 
 ### Top 10 Candidates Table
-![Top Candidates Table](Demo_Screenshots/top_candidates_table.png)
+![Top Candidates Table](Demo_Screenshots/top_candidates_bar_chart.png)
 
 ### Skills Matched vs Missing per Candidate
 ![Skills Matched vs Missing](Demo_Screenshots/Skills_matched_vs_missing.png
